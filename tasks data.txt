@@ -5,7 +5,7 @@ var task = [{
 	{id: 2, user_id: 1, name: "Finish interactive video", due: { y: 2018, m: 11, d: 29}, done: false, fav: true},
 	{id: 3, user_id: 1, name: "Finish elective homework", due: { y: 2018, m: 11, d: 30}, done: true, fav: true},
 	{id: 4, user_id: 1, name: "Finish ergonomics", due: { y: 2018, m: 11, d: 30}, done: true, fav: false},
-	{id: 5, user_id: 1, name: "Finish prototype for interactive system project", due: { y: 2018, m: 11, d: 29}, done: false, fav: true},
+	{id: 5, user_id: 1, name: "Finish prototype for interactive system project", due: { y: 2018, m: 11, d: 29}, done: false, fav: true}
 ];
 
 var subtask = [
@@ -13,7 +13,7 @@ var subtask = [
 	{id: 2, name: "finish filming scenes", task_id: 2, done: true},
 	{id: 3, name: "submit work on blackboard", task_id: 3, done: false},
 	{id: 4, name: "submit work on blackboard", task_id: 4, done: false},
-	{id: 5, name: "buy materials for prototype", task_id: 5, done: true},
+	{id: 5, name: "buy materials for prototype", task_id: 5, done: true}
 		
 ];
 
