@@ -9,9 +9,9 @@ Create an app that focuses on organization. Creating tasks and organizing them b
 
 ## Members
 
-Isabel Cruz
-Abigail Daniel
-Melanie Valledor
-Rula Alnasiri
-Wayne Venpin
-Keya Saynal
+- Isabel Cruz
+- Abigail Daniel
+- Melanie Valledor
+- Rula Alnasiri
+- Wayne Venpin
+- Keya Saynal
